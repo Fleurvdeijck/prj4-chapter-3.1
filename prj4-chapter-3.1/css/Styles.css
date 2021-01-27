@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.body 
+{background-color: #EDE0D0;}
+.container
+{background-color: #EBD6BC;
+	padding: 10px;
+	margin-left: 80px;
+	margin-right: 80px;
+	border: 5px solid #FFFFFF;}
+	#text{font-weight:300;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+/* CSS Document */
