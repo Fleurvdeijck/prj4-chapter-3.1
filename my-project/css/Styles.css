@@ -4,9 +4,9 @@
 {background-color: #EDE0D0;
 font-family: 'Roboto', sans-serif;}
 #header{
-	background-image: url("../images/imagevillage.JPG");
+	background-image: url("../images/imagewhite.png");
 	background-size: contain;
-	padding:20px;}
+	padding:5px;}
 .container
 {background-color: #EBD6BC;
 	padding: 10px;
